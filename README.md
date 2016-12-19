@@ -11,6 +11,7 @@ Sample website with plenty of files for demos
 
 ##How To Contribute
 Please fork this repo and then issue pull requests for updates
+You haven't forked yet
 
 ### Copyright
 2016 ButlerThing.io
